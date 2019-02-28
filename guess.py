@@ -53,6 +53,8 @@ if __name__ == "__main__":
 	print("Do you wish to play again?")		
 	again = input()
 	while again in ["Yes","yes","YES","sure","okay","ok"]:
+		print("Okay! Here we go again...")
+		time.sleep(2)
 		game()
 
 
