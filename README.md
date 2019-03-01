@@ -34,7 +34,7 @@ What is your guess?
 Too low ! You have 2 guesses left
 What is your guess?
 3
-Bingo!! You're so good at this game! Good guessing Hrishikesh
+Bingo!!! You're so good at this game! Good guessing Hrishikesh
 Do you wish to play again?
 no thanks
 $ 
