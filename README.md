@@ -4,7 +4,7 @@ Note : Best viewed in raw mode or after cloning
 This is a simple python based guessing game. The player has to guess the integer from 1 to 20 that is assumed by the computer. If the player makes the correct guess within 6 attempts the player wins.
 Here is the sample output :
 
-$ python3 guess.py 
+$ python3 guess.py<br/> 
 Hello! May I know your name? :) 
 Hrishikesh
 Hey Hrishikesh! How are you doing ? 
