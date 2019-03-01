@@ -12,9 +12,9 @@ Would you like to play a game with me ?<br/>
 sure<br/>
 Okay then lets play a game!!<br/> 
 <br/>
- Here is the thing -<br/> 
-	I have an integer between 1 and 20 in my mind<br/>
-	Your task is to guess that number in as few attempts as possible<br/>
+&nbsp;Here is the thing -<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;I have an integer between 1 and 20 in my mind<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Your task is to guess that number in as few attempts as possible<br/>
 Your game begins in<br/> 
 5...<br/>
 4...<br/>
