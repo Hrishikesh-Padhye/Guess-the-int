@@ -12,9 +12,9 @@ I am good
 Would you like to play a game with me ?
 sure
 Okay then lets play a game!!
-&nbsp;Here is the thing - 
-&nbsp;&nbsp;&nbsp;&nbsp;I have an integer between 1 and your difficulty level in my mind
-&nbsp;&nbsp;&nbsp;&nbsp;Your task is to guess that number in as few attempts as possible within 6 attempts
+ Here is the thing - 
+  I have an integer between 1 and your difficulty level in my mind
+  Your task is to guess that number in as few attempts as possible within 6 attempts
 Your game begins in
 5...
 4...
